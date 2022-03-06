@@ -1,0 +1,46 @@
+.hoja {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 140px;
+    margin-right: 140px;
+
+
+
+}
+
+.hoja1 {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin: auto;
+    border: 4px;
+    align-self: center;
+
+}
+.alineamientodetexto{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.cambiodetamano {
+
+    width: 50%;
+    height: 50%;
+    justify-content: center;
+    transform: translateX(50%);
+}
+.bodybg{
+
+    background-image: url(/img/back2.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.carrusel{
+
+    margin-top: 30px;
+}
