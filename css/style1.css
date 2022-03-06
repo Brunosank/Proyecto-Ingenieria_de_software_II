@@ -35,7 +35,7 @@
 }
 .bodybg{
 
-    background-image: url(Proyecto-Ingenieria_de_software_II/img/back2.png);
+    background-image: url(../img/back2.png);
     background-repeat:no-repeat;
     background-size:cover;
 }
